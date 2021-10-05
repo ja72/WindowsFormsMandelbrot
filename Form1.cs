@@ -64,16 +64,10 @@ namespace WindowsFormsApp1
                         (a, b) = (a * a - b * b + x, 2 * a * b + y);
                         iter++;
                     } while (iter <= iterLimit && a * a + b * b < 4);
-                    Color color = Color.Black;
+                    Color color;
                     if (iter > iterLimit)
                     {
-                        double la = Math.Min(1f, (a * a) / 2);
-                        double lb = Math.Min(1f, (b * b) / 2);
-                        color = Color.FromArgb(
-                            (int)(255 * la),
-                            (int)(127 * la+ 127*lb),
-                            (int)(255 * lb)
-                            );
+                        color = Color.Black;
                     }
                     else
                     {
