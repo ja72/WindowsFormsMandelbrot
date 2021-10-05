@@ -4,4 +4,4 @@
 
 ![ScreenShot](2021-10-05-08_39_50-Form1.png)
 
-This code accompanies my [answer](https://stackoverflow.com/a/69440443/380384) to a StackOverflow [question]9https://stackoverflow.com/questions/69439329/mandelbrot-set-c-sharp-not-doing-what-its-supposed-to/69440443#69440443).
+This code accompanies my [answer](https://stackoverflow.com/a/69440443/380384) to a StackOverflow [question](https://stackoverflow.com/questions/69439329/mandelbrot-set-c-sharp-not-doing-what-its-supposed-to/69440443#69440443).
